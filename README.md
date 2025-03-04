@@ -16,5 +16,5 @@ I think we should focus on Active MIAs, as they capture this sense of the centra
 - Agiollo et al. [**"Anonymous Federated Learning via Named-Data Networking"**](https://www.sciencedirect.com/science/article/pii/S0167739X23004144) @ **FGCS 2024**.
 
 ## Active MIAs
--  [**"Active Membership Inference Attack under Local Differential Privacy in Federated Learning**] ( https://proceedings.mlr.press/v206/nguyen23e/nguyen23e.pdf)
--   [**Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning**] (https://arxiv.org/pdf/1812.00910)
+-  **"Active Membership Inference Attack under Local Differential Privacy in Federated Learning** ( https://proceedings.mlr.press/v206/nguyen23e/nguyen23e.pdf)
+- **Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning** (https://arxiv.org/pdf/1812.00910)
