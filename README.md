@@ -18,3 +18,7 @@ I think we should focus on Active MIAs, as they capture this sense of the centra
 ## Active MIAs
 -  **Active Membership Inference Attack under Local Differential Privacy in Federated Learning** ( https://proceedings.mlr.press/v206/nguyen23e/nguyen23e.pdf)
 - **Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning** (https://arxiv.org/pdf/1812.00910)
+
+
+## Gradient Disaggregation
+-  **Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix** (https://proceedings.mlr.press/v139/lam21b/lam21b.pdf)
