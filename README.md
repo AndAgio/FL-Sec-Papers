@@ -22,3 +22,6 @@ I think we should focus on Active MIAs, as they capture this sense of the centra
 
 ## Gradient Disaggregation
 -  **Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix** (https://proceedings.mlr.press/v139/lam21b/lam21b.pdf)
+- ** Quality Inference in Federated Learning with Secure Aggregation. ** (https://arxiv.org/pdf/2007.06236)
+- ** Eluding Secure Aggregation in Federated Learning via Model Inconsistency. ** (https://arxiv.org/pdf/2111.07380)
+- ** SRATTA: SAMPLE RE-ATTRIBUTION ATTACK OF SECURE AGGREGATION IN FEDERATED LEARNING.** (https://arxiv.org/pdf/2306.07644)
